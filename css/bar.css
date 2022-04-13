@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bar{
+    position: relative;
+
+}
+.header{
+    position: fixed; 
+    width: 100%;
+    height: 46.5px;
+    display: flex;
+    background: black;
+    position: relative;
+    
+}
+
+/* ===Header== */
+/* class="menu" */
+.menu{
+    font-size: 15px;
+    font-family:fontchuMenu ;
+    display: flex;
+    list-style: none;
+    background: black;
+}
+.menu li {
+    padding: 12px 24px;
+
+}
+.menu li a{
+    color: white;
+    text-decoration: none;
+    height: 46.5px;
+}
+.menu li:hover{
+    background: white;
+}
+
+.menu li:hover > a{
+    color: black;
+}
+
+
+
+/* class="searching" */
+.searching{
+    width: 13.94px;  
+    height: 100%;
+    background: black;
+    color: white;
+    position:absolute ;
+    right: 0px;
+    padding: 12px 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.searching:hover{
+    background: white;
+    color: black;
+}
+
+/* class =" secction" 
+.se*/
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: fontchuMenu;
+    src: url(/Lato/Lato-Regular.ttf);
+}

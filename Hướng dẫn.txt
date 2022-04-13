@@ -1,0 +1,14 @@
+Các bước làm cắt html css
+(1)Phân tích
+(2)Dựng base ( Xây móng)
+(3)Xây dựng từng phần theo phân tích
+(4)Hoàn thiện
+------------------------------------------------------------
+Những thành phần thường gặp trên giao diện webside:
+1.Header (Đầu trang)
+2.Navigation (Điều hướng)
+3.Breadcrumd (Chỉ đường chỉ link)
+4.Sidebar (Thanh bên)
+5.Slider (phần trượt)
+6.Content (Nội dung)
+7.Footer (Chân trang)
